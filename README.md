@@ -1,0 +1,1 @@
+Bu projenin amacı kamera kaydı açıldığında ekranda beliren insan yüzlerini tespit etmek. Ayrıca tespit edilen insan yüzlerinin sayısını ekrana yazdırır. Bu projeyi Python dilini kullanarak kodladım. OpenCV kütüphanesinden yararlandım.
